@@ -3,7 +3,7 @@ import styles from './Footer.module.css';
 function Footer() {
   return (
     <footer className={styles.footer}>
-      <p>&copy; 2024 Seu projeto - Todos os direitos reservados.</p>
+      <p>&copy; 2026 PMD - Todos os direitos reservados.</p>
     </footer>
   );
 }
